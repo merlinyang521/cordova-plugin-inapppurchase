@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-inapppurchase",
   "version": "1.2.0",
-  "description": "A lightweight cordova plugin for in app purchases on iOS and Android with a simple promise based API.",
+  "description": "A lightweight cordova plugin for in app purchases on iOS with a simple promise based API.",
   "main": "www/index-ios.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register --require babel-polyfill test/*",
@@ -17,14 +17,12 @@
     "ecosystem:cordova",
     "purchase",
     "purchases",
-    "cordova-android",
     "cordova-ios",
     "payments",
     "in",
     "app",
     "promise",
     "promises",
-    "android",
     "ios",
     "itunes",
     "google",
